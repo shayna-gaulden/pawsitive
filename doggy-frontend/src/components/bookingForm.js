@@ -24,6 +24,8 @@ const BookingForm = (props) => {
     const {user, employee, time, department, empId, subId} = useParams()
     const [services, setServices] = useState([])
     const [dogs, setDogs] = useState([])
+    const [error, setError] = useState(false)
+    const [errorMsg, setErrorMsg] = useState('')
     
     const getDogId = (dogName) => {
         const dogId = dogs.find(el => el.DOG_NAME === dogName)
@@ -49,6 +51,8 @@ const BookingForm = (props) => {
         })
         .catch(err => {
             console.log(err)
+            setError(true)
+            setErrorMsg(err.request.response)
         })
 
     }
@@ -86,6 +90,9 @@ const BookingForm = (props) => {
             <Typography component="h1" variant="h5">
               Booking
             </Typography>
+            {
+              errorMsg !== '' ? <Typography style={{color:'red'}}>{errorMsg}</Typography>:''
+            }
             <Box component="form" noValidate onSubmit={handleSubmit} sx={{ mt: 1 }}>
             <Grid container spacing={2}>
               <Grid item xs={12} sm={6}>
