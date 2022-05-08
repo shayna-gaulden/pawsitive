@@ -1,0 +1,8 @@
+DOG_ID,USER_ID,DOG_NAME,SIZE,BREED,SPAYED_NEUTERED,VACCINATED,AGE,GENDER
+1,ross.geller,Mia,Small,Chihuahua,1,0,1,F
+2,ross.geller,Coco,Small,Corgi,1,0,1,M
+3,phoeba.buffay,Charlie,Small,Mix,0,0,1,M
+4,bing.chand,Amber,Large,Visla,0,0,2,F
+5,j.tribbani,Sweetie,Small,Carin Terrier,1,0,4,M
+6,rachel.green,Gordie,Small,Bichon,1,0,6,M
+7,rachel.green,Bella,Medium,Australian Shephard,0,0,0,F

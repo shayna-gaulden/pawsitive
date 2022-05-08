@@ -1,0 +1,15 @@
+SERVICES,DETAILS,PRICE,DEPARTMENT
+Puppy 1,Beginner puppy lessons,149.99,Training
+Puppy 2,Advanced puppy lessons,149.99,Training
+Dog 1,Beginner adult dog class,149.99,Training
+Dog 2,Advanced adult dog class,149.99,Training
+AKC CGC,AKC Canine good citizen training,149.99,Training
+CGC test,AKC CGC testing,25,Training
+Small dog full service,Wash and brush for dogs size 0-20 lb,59.99,Grooming
+Medium dog full service,Wash and brush for dogs size 20-50 lb,89.99,Grooming
+Large dog full service,Wash and brush for dogs size 50+ lb,119.99,Grooming
+Matt brush,Every 15 extra minutes of brushing.,12,Grooming
+Nails and Ears,Naill trim and ear cleaning,20,Grooming
+Half-day Board,4 hour in day boarding,19.99,Boarding
+Full-day Board,8 hours in day boarding,34.99,Boarding
+Overnight Board,Dog kept in boarding overnight ,49.99,Boarding

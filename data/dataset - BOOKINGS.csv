@@ -1,0 +1,7 @@
+DOG_ID,USER_ID,TIME_DATE,SERVICE,SUB_ID
+1,s.gaulden,2022-05-01 8:00,Puppy 1,1
+1,t.nguyen,2022-05-01 9:00,Small dog full service,1
+2,s.gaulden,2022-05-01 8:00,Puppy 1,1
+3,black.lab,2022-05-01 20:00,Overnight Board,1
+4,black.lab,2022-05-01 20:00,Overnight Board,1
+2,black.lab,2022-05-01 20:00,Overnight Board,2

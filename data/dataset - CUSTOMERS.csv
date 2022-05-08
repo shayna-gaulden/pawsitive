@@ -1,0 +1,6 @@
+USER_ID,CUST_NAME,PHONE_NUMBER,ADDRESS,CITY,STATE,ZIPCODE,COUNTRY
+ross.geller,Ross Geller,408123456,123 Creek Dr,San Jose,CA,95122,US
+phoeba.buffay,Phoebe Buffay,925123456,124 Creek Dr,San Jose,CA,95122,US
+bing.chand,Chandler Bing,408345213,6894 Grand blvd,San Jose,CA,95005,US
+j.tribbani,Joey Tribbiani,567325098,12A Main St,Milpitas,CA,95305,US
+rachel.green,Rachel Green,925000980,54 Alber Ct,Milpitas,CA,95035,US
